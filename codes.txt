@@ -3,3 +3,4 @@ staging area and local repo
 commit
 push
 pull
+merge
