@@ -1,0 +1,5 @@
+remote/global/server
+staging area and local repo
+commit
+push
+pull
