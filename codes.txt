@@ -4,3 +4,9 @@ commit
 push
 pull
 merge
+
+git init
+git status
+git add -A
+git commit -m ""
+git push -u origin master
